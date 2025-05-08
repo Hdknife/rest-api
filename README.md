@@ -2,9 +2,16 @@ Student Course Management API
 
 This repository contains a REST API built with FastAPI for managing students, courses, and enrollments. It includes a ZIP file (StudentCourseAPI.zip) with all source code and a requirements.txt file for dependencies. The API is powered by SQLAlchemy and supports SQLite (default) or PostgreSQL.
 
+#video
+
+
 Running the API
 
 To start the API, use:
+
+
+https://github.com/user-attachments/assets/d12d6e54-3261-4812-a61f-278ca9d28a8b
+
 
 uvicorn main:app --reload
 
